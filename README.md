@@ -2,7 +2,7 @@ Hello Hello, I’m @A-Rush-R
 - I am a Second-Year Undergraduate Student at Indian Institute of Technology Kanpur, in the department of Computer Science and Engineering.
 - I am adventurous, and I take pleasure in acquiring new skills, always eager to learn.
 - Specifically, I love exploring the domain of Machine Learning and finding efficient ways of doing activies on both professional and daily life scale.
-- I like experimenting with machine learning techniques and am intereseted in real life applications of the same to solve problems
+- I like experimenting with machine learning techniques and am interested in real life applications of the same to solve problems
 
 
 <!---
